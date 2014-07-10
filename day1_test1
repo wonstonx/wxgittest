@@ -8,4 +8,5 @@ def fun(a,b,c,d):
 
 
 fun(raw_input("input a:"),raw_input("input b:"),"max is a","max is b")
+fun(raw_input("input a:"),raw_input("input b:"),"max is a","max is b")
 
