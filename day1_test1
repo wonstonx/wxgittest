@@ -1,0 +1,11 @@
+def fun(a,b,c,d):
+    if a>b:
+        print a,b,c
+    elif a<b:
+        print(a,b,d)
+    else:
+        print a,"=",b
+
+
+fun(raw_input("input a:"),raw_input("input b:"),"max is a","max is b")
+
